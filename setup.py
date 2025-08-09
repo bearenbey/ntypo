@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ntypo",
-    version="1.0.0",
+    version="2.1.0",
     author="Eren Öğrül",
     author_email="termapp@pm.me",
     description="A terminal typing speed test built with ncurses",
